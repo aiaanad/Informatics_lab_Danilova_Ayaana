@@ -2,17 +2,17 @@
 По поводу самого задания. Сохранила имя в переменной name, а фамилию в step_name. Делается это с помощью знака равно "=", доллара "$" и номеру аргумента, отсчёт начинается с единицы.
 Тоесть у имени первый, а у фамилии второй. Все пишется слитно, без пробелов.
 
-  name=$1
-  step_name=$2
+    name=$1
+    step_name=$2
 
 Вывожу переменные также с помощью знака доллара.
 
-  echo "Welcome, $name $step_name"
+    echo "Welcome, $name $step_name"
   
 Результат:
   
-  #!/bin/bash
-  name=$1
-  step_name=$2
+    #!/bin/bash
+    name=$1
+    step_name=$2
   
-  echo "Welcome, $name $step_name"
+    echo "Welcome, $name $step_name"
