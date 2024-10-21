@@ -66,10 +66,7 @@ array() - сам массив
 
 
 Скриншот файла целиком:
-![](C:\Users\Далаана\Desktop\photoforlab\lab2screen.jpeg)
-
+![img.png](img.png)
 
 Пример её работы:
-
-
-![](C:\Users\Далаана\Desktop\photoforlab\testlab2screen.png)
+![img_2.png](img_2.png)
