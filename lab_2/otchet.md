@@ -66,6 +66,10 @@ array() - сам массив
 
 
 Скриншот файла целиком:
-![2024-10-21_03-34-31.png](C:\Users\Далаана\Informatics_lab_Danilova_Ayaana\lab_2\otchet.md)
+![](C:\Users\Далаана\Desktop\photoforlab\lab2screen.jpeg)
+
+
 Пример её работы:
-![03e008eb-345d-4aca-aa51-c97c6f56fbf9.jpeg](C:\Users\Далаана\Informatics_lab_Danilova_Ayaana\lab_2\otchet.md)
+
+
+![](C:\Users\Далаана\Desktop\photoforlab\testlab2screen.png)
