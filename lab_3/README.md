@@ -6,7 +6,7 @@
 ```linux
 ping -c 2 google.com
 ```
-![VirtualBox_Aabox_18_11_2024_16_20_50.png](screenshots/VirtualBox_Aabox_18_11_2024_16_20_50.png)
+![VirtualBox_Aabox_18_11_2024_16_20_50.png](lab_3/screenshots/VirtualBox_Aabox_18_11_2024_16_20_50.png)
 
 6) Проверим соединение между машинами
 ```linux
@@ -16,8 +16,8 @@ ping -c 2 192.168.200.0
 ```
 Скриншот:
 
-![2024-11-18_16-16-09.png](screenshots/2024-11-18_16-16-09.png)
+![2024-11-18_16-16-09.png](lab_3/screenshots/2024-11-18_16-16-09.png)
 
-![2024-11-18_16-32-12.png](screenshots/2024-11-18_16-32-12.png)
+![2024-11-18_16-32-12.png](lab_3/screenshots/2024-11-18_16-32-12.png)
 
 Видно, что B и C никак не связаны и не могут на прямую передавать друг другу пакеты.
