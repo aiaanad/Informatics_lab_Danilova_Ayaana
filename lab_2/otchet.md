@@ -69,7 +69,7 @@ array() - сам массив
 
 
 
-![img_1.png](screenshots/img_1.png)
+![img_1.png](img_1.png)
 
 
 
@@ -78,4 +78,4 @@ array() - сам массив
 
 
 
-![img.png](screenshots/img.png)
+![img.png](img.png)

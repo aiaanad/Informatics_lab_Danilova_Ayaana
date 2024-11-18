@@ -7,7 +7,7 @@ mkdir lab4 && cd lab4
 
 2) Создадим Dockerfile и откроем редактор
 ```linux
-touch Dockerfile && nano Dockerfile
+touch Dockerfile && gedit Dockerfile
 ```
 3) Пропишем в нашем файле следующее:
 ```linux
